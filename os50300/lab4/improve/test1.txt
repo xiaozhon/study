@@ -1,0 +1,37 @@
+[0.000069] Elevator 1 arrives at 1 
+[0.000127] Elevator 1 starts moving from 1 to 2 
+[1.000192] Elevator 1 arrives at 2 
+[1.000209] Elevator 1 starts moving from 2 to 3 
+[1.000194] Person 1 arrives on floor 1, waiting to go to floor 4 
+[2.000281] Elevator 1 arrives at 3 
+[2.000299] Elevator 1 starts moving from 3 to 4 
+[2.000286] Person 2 arrives on floor 2, waiting to go to floor 4 
+[3.000366] Elevator 1 arrives at 4 
+[3.000383] Elevator 1 starts moving from 4 to 5 
+[3.000374] Person 3 arrives on floor 2, waiting to go to floor 4 
+[4.000453] Elevator 1 arrives at 5 
+[4.000469] Elevator 1 starts moving from 5 to 4 
+[4.000460] Person 4 arrives on floor 3, waiting to go to floor 1 
+[5.000514] Elevator 1 arrives at 4 
+[5.000526] Elevator 1 starts moving from 4 to 3 
+[5.000545] Person 5 arrives on floor 5, waiting to go to floor 1 
+[6.000594] Elevator 1 arrives at 3 
+[6.000617] Person 6 arrives on floor 5, waiting to go to floor 3 
+[6.000645] Elevator 1 picks up Person 4 
+[6.000652] Elevator 1 starts moving from 3 to 2 
+[7.000695] Person 7 arrives on floor 5, waiting to go to floor 1 
+[7.000715] Elevator 1 arrives at 2 
+[7.000724] Elevator 1 starts moving from 2 to 1 
+[8.000768] Person 8 arrives on floor 1, waiting to go to floor 3 
+[8.000786] Elevator 1 arrives at 1 
+[8.000797] Elevator 1 picks up Person 1 
+[8.000799] Elevator 1 picks up Person 8 
+[8.000801] Elevator 1 drops Person 4 
+[8.000801] Elevator 1 starts moving from 1 to 2 
+[9.000848] Person 9 arrives on floor 5, waiting to go to floor 4 
+[9.000869] Elevator 1 arrives at 2 
+[9.000879] Elevator 1 picks up Person 2 
+[9.000883] Elevator 1 picks up Person 3 
+[9.000884] Elevator 1 starts moving from 2 to 3 
+[10.000923] Person 10 arrives on floor 1, waiting to go to floor 4 
+Simulation result: 5 people have started,1 people have finished during 10 seconds 

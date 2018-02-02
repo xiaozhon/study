@@ -1,0 +1,12 @@
+Operating System Lab4: Elevator Simulator
+
+/basic:
+	basic version of elevator simulation
+
+/improve:
+	improved version of elevator simulation, use SCAN algorithm
+	
+For both application, you can run it as:
+	./main_elevator [num_elevators] [num_floors] [arrive_rate] [elevator_speed] [simulation_time] [random_seed]
+	
+

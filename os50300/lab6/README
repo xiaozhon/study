@@ -1,0 +1,44 @@
+Operating System Lab 6: Performance Measurement
+
+# The test method follows those described in the lab assignment document.
+
+# Files:
+	papi_function_call.c
+	papi_system_call.c
+	papi_context_switch.c
+	papi_page_fault.c
+	Makefile
+	Performance_result.pdf
+	
+# Test parameters:
+	Function call: call a dummy function for	1000,000 times
+	System call: call getpid() for				1000,000 times
+	Context switch: send pipe messages for 		1000 	 times
+		The number of context switches >=		2000	 times
+	Page fault: read elements from large array	501		 times
+		Create two arrays, the size of the array
+		equals to the main memory size
+		
+# How to run:
+ 1.	Change these two lines in Makefile:
+	
+		LIBS = /home/xiaozhon/OS/papi/lib/libpapi.a
+		INC  = -I/home/xiaozhon/OS/papi/include
+	
+	to corresponding path in your machine.
+  
+ 2.	In terminal, type
+	
+		make
+		
+ 3. Run each of the tests by typing:
+ 
+		./function_call_test
+		./system_call_test
+		./context_switch_test
+		./page_fault_test
+		
+	at the end of the test, time and cpu cycle usage information will be 
+	printed to the screen.
+	
+	It will take a little longer to run "page_fault_test"

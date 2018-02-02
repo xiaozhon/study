@@ -1,0 +1,109 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <sys/wait.h>
+#include <papi.h>
+
+
+int main(int argc, char* argv[]) {
+	int pipe_p2c[2];
+	int pipe_c2p[2];
+	unsigned char p_msg = 'a';	// one byte message from parent to child
+	unsigned char p_rcv;		// parent receive child ack
+	unsigned char c_rcv;		// child receive parent msg
+	unsigned char c_ack = p_msg;		// one byte ack from child to parent
+
+	int retval;
+	int N = 1000;		// the number of messages
+
+	if(pipe(pipe_p2c) < 0) {
+		perror("pipe_p2c"); 
+		exit(1);
+	}
+	if(pipe(pipe_c2p) < 0) {
+		perror("pipe_p2c"); 
+		exit(1);
+	}
+	
+	long long int start, end;
+	long long int s_cycle, e_cycle;
+	
+	start = PAPI_get_real_usec();
+	s_cycle = PAPI_get_real_cyc();
+
+	if(fork() > 0) {
+		// parent
+		int i;
+		int size;
+	//	close(pipe_c2p[1]);
+	//	printf("Parent is here %d \n", getpid());
+		for(i = 0; i < N; i++) {
+			
+			write(pipe_p2c[1], &p_msg, sizeof(p_msg));
+		//	p_msg++;
+		//	if(p_msg == 'z' + 1){
+		//		p_msg = 'a';
+		//	}
+		//	while((size = read(pipe_c2p[0], &p_rcv, sizeof(p_rcv))) == 1) {
+		//		printf("	Parent: i is: %d, received ACK:	 %c \n", i, p_rcv);
+		//		break;
+		//	}
+			if((size = read(pipe_c2p[0], &p_rcv, sizeof(p_rcv))) != 1) {
+				perror("Parent read");
+				exit(1);
+			}
+	//		printf("	Parent: i is: %d, received ACK:	 %c \n", i, p_rcv);
+
+		}
+		p_msg = 'F';	// write last byte, to tell child to terminate
+		write(pipe_p2c[1], &p_msg, sizeof(p_msg));
+		close(pipe_p2c[1]);
+		
+	//	printf("Parent finished sending, wait for child to terminate\n");
+		wait(&retval);
+	//	printf("Parent===== \n");
+	} else {
+		// child
+		int i = 0;
+		int size;
+	//	printf("Chile is here %d \n", getpid());
+		
+	/*	for(i = 0; i < N; i++) {
+			if((size = read(pipe_p2c[0], &c_rcv, sizeof(c_rcv)))!= 1) {
+				perror("Child read");
+				exit(1);
+			}
+			c_ack++;
+			write(pipe_c2p[1], &c_ack, sizeof(c_ack));
+			printf("Child: i is: %d, received msg: %c, send ack: %c \n", i, c_rcv, c_ack);
+		}
+		*/
+		close(pipe_p2c[1]);		// close unused pipe end, so the process can detect the end of the data
+		
+		while((size = read(pipe_p2c[0], &c_rcv, sizeof(c_rcv))) == 1) {
+			c_ack = c_rcv;
+			if(c_ack == 'F') {
+		//		break;
+			}
+			write(pipe_c2p[1], &c_ack, sizeof(c_ack));
+	//		printf("Child: i is: %d, received msg: %c, send ack: %c \n", i, c_rcv, c_ack);
+			i++;
+			
+			
+		}
+		
+		close(pipe_c2p[1]);
+	//	printf("Child get to end\n");
+		
+	}
+
+	end = PAPI_get_real_usec();
+	e_cycle = PAPI_get_real_cyc();
+	
+	printf("pid is: %d \nStart time:\t%lld\nEnd time:\t%lld\nUsed time:\t%lld\n",
+		getpid(), start, end, end - start);
+	printf("pid is: %d\nStart cycle:\t%lld\nEnd cycle:\t%lld\nUsed cycles: \t%lld\n \n",
+		getpid(), s_cycle, e_cycle, e_cycle - s_cycle);
+	return 0;
+}

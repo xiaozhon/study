@@ -1,0 +1,11 @@
+1. In your terminal, type:
+  	make
+   to compile the code, and type:
+	./xshell
+   to run the simple shell.
+
+2. Type:
+	exit
+   or
+	quit
+   to leave XSHELL

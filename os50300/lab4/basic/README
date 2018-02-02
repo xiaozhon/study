@@ -1,0 +1,12 @@
+Operating System Lab3, part 1: Multi-producer Multi-consumer problem
+
+To run it, go to the "producer-consumer" directory and type:
+
+	make
+	./main_producer_consumer [producer number] [consumer number] [max_sleep_seconds] [total_items2produce] [buffer_size]
+	
+Some information will be printed to the screen to tell you where the program
+runs. 
+
+At the end, the total number of items produced and consumed will be printed
+to the screen, you can check the values to see the correctness of the program.

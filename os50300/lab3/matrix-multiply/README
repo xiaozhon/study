@@ -1,0 +1,13 @@
+Operating System Lab3, part 2: Multi-thread matrix multiplication
+
+To run it, go to the "matrix-multiply" directory and type:
+
+	make
+	./main_matrix_multiply [matrix_size] [thread number]
+	
+Some information will be printed to the screen to tell you where the program
+runs. 
+
+At the end, if multi-threads matrix multiplication matches the sequential version,
+a SUCCESS message will be printed to the screen, otherwise the ERROR message will
+be printed.

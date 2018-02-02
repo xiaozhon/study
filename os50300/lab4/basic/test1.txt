@@ -1,0 +1,1148 @@
+[1.000139] Person 1 arrives on floor 1, waiting to go to floor 4 
+[1.000215] Elevator 1 arrives at 1 
+[1.000218] Elevator 1 picks up Person 1 
+[1.000220] Elevator 2 arrives at 1 
+[2.000270] Person 2 arrives on floor 2, waiting to go to floor 4 
+[2.000295] Elevator 2 starts moving from 1 to 2 
+[2.000306] Elevator 3 starts moving from 1 to 2 
+[2.000317] Elevator 5 starts moving from 1 to 2 
+[2.000310] Elevator 4 starts moving from 1 to 2 
+[2.000326] Elevator 6 starts moving from 1 to 2 
+[2.000332] Elevator 7 starts moving from 1 to 2 
+[2.000337] Elevator 8 starts moving from 1 to 2 
+[2.000342] Elevator 9 starts moving from 1 to 2 
+[2.000348] Elevator 10 starts moving from 1 to 2 
+[2.000355] Elevator 11 starts moving from 1 to 2 
+[2.000360] Elevator 12 starts moving from 1 to 2 
+[2.000363] Elevator 13 starts moving from 1 to 2 
+[2.000368] Elevator 14 starts moving from 1 to 2 
+[2.000374] Elevator 15 starts moving from 1 to 2 
+[2.000381] Elevator 16 starts moving from 1 to 2 
+[2.000389] Elevator 17 starts moving from 1 to 2 
+[2.000434] Elevator 18 starts moving from 1 to 2 
+[2.000438] Elevator 19 starts moving from 1 to 2 
+[2.000444] Elevator 20 starts moving from 1 to 2 
+[2.000452] Elevator 21 starts moving from 1 to 2 
+[2.000462] Elevator 22 starts moving from 1 to 2 
+[2.000472] Elevator 23 starts moving from 1 to 2 
+[2.000476] Elevator 24 starts moving from 1 to 2 
+[2.000480] Elevator 25 starts moving from 1 to 2 
+[2.000486] Elevator 26 starts moving from 1 to 2 
+[2.000489] Elevator 27 starts moving from 1 to 2 
+[2.000498] Elevator 28 starts moving from 1 to 2 
+[2.000505] Elevator 29 starts moving from 1 to 2 
+[2.000509] Elevator 30 starts moving from 1 to 2 
+[2.000515] Elevator 31 starts moving from 1 to 2 
+[2.000524] Elevator 32 starts moving from 1 to 2 
+[2.000531] Elevator 33 starts moving from 1 to 2 
+[2.000537] Elevator 34 starts moving from 1 to 2 
+[2.000541] Elevator 35 starts moving from 1 to 2 
+[2.000547] Elevator 36 starts moving from 1 to 2 
+[2.000552] Elevator 37 starts moving from 1 to 2 
+[2.000558] Elevator 38 starts moving from 1 to 2 
+[2.000568] Elevator 39 starts moving from 1 to 2 
+[2.000572] Elevator 40 starts moving from 1 to 2 
+[2.000577] Elevator 41 starts moving from 1 to 2 
+[2.000581] Elevator 42 starts moving from 1 to 2 
+[2.000585] Elevator 43 starts moving from 1 to 2 
+[2.000589] Elevator 44 starts moving from 1 to 2 
+[2.000594] Elevator 45 starts moving from 1 to 2 
+[2.000601] Elevator 46 starts moving from 1 to 2 
+[2.000604] Elevator 47 starts moving from 1 to 2 
+[2.000610] Elevator 48 starts moving from 1 to 2 
+[2.000613] Elevator 49 starts moving from 1 to 2 
+[2.000621] Elevator 50 starts moving from 1 to 2 
+[2.000625] Elevator 51 starts moving from 1 to 2 
+[2.000631] Elevator 52 starts moving from 1 to 2 
+[2.000636] Elevator 53 starts moving from 1 to 2 
+[2.000643] Elevator 54 starts moving from 1 to 2 
+[2.000647] Elevator 55 starts moving from 1 to 2 
+[2.000653] Elevator 56 starts moving from 1 to 2 
+[2.000655] Elevator 57 starts moving from 1 to 2 
+[2.000661] Elevator 58 starts moving from 1 to 2 
+[2.000667] Elevator 59 starts moving from 1 to 2 
+[2.000674] Elevator 60 starts moving from 1 to 2 
+[2.000680] Elevator 61 starts moving from 1 to 2 
+[2.000687] Elevator 62 starts moving from 1 to 2 
+[2.000695] Elevator 63 starts moving from 1 to 2 
+[2.000701] Elevator 64 starts moving from 1 to 2 
+[2.000704] Elevator 65 starts moving from 1 to 2 
+[2.000709] Elevator 66 starts moving from 1 to 2 
+[2.000713] Elevator 67 starts moving from 1 to 2 
+[2.000718] Elevator 68 starts moving from 1 to 2 
+[2.000722] Elevator 69 starts moving from 1 to 2 
+[2.000728] Elevator 70 starts moving from 1 to 2 
+[2.000736] Elevator 71 starts moving from 1 to 2 
+[2.000742] Elevator 72 starts moving from 1 to 2 
+[2.000751] Elevator 73 starts moving from 1 to 2 
+[2.000756] Elevator 74 starts moving from 1 to 2 
+[2.000765] Elevator 75 starts moving from 1 to 2 
+[2.000771] Elevator 76 starts moving from 1 to 2 
+[2.000776] Elevator 77 starts moving from 1 to 2 
+[2.000781] Elevator 78 starts moving from 1 to 2 
+[2.000785] Elevator 79 starts moving from 1 to 2 
+[2.000789] Elevator 80 starts moving from 1 to 2 
+[2.000795] Elevator 81 starts moving from 1 to 2 
+[2.000801] Elevator 82 starts moving from 1 to 2 
+[2.000807] Elevator 83 starts moving from 1 to 2 
+[2.000813] Elevator 84 starts moving from 1 to 2 
+[2.000820] Elevator 85 starts moving from 1 to 2 
+[2.000823] Elevator 86 starts moving from 1 to 2 
+[2.000829] Elevator 87 starts moving from 1 to 2 
+[2.000833] Elevator 88 starts moving from 1 to 2 
+[2.000837] Elevator 89 starts moving from 1 to 2 
+[2.000841] Elevator 90 starts moving from 1 to 2 
+[2.000857] Elevator 91 starts moving from 1 to 2 
+[2.000861] Elevator 92 starts moving from 1 to 2 
+[2.000866] Elevator 93 starts moving from 1 to 2 
+[2.000869] Elevator 94 starts moving from 1 to 2 
+[2.000875] Elevator 95 starts moving from 1 to 2 
+[2.000879] Elevator 96 starts moving from 1 to 2 
+[2.000883] Elevator 97 starts moving from 1 to 2 
+[2.000886] Elevator 98 starts moving from 1 to 2 
+[2.000890] Elevator 99 starts moving from 1 to 2 
+[2.000892] Elevator 100 starts moving from 1 to 2 
+[3.000362] Person 3 arrives on floor 2, waiting to go to floor 4 
+[3.000378] Elevator 4 arrives at 2 
+[3.000379] Elevator 4 picks up Person 2 
+[3.000382] Elevator 3 arrives at 2 
+[3.000390] Elevator 6 arrives at 2 
+[3.000394] Elevator 3 picks up Person 3 
+[3.000396] Elevator 8 arrives at 2 
+[3.000394] Elevator 7 arrives at 2 
+[3.000385] Elevator 9 arrives at 2 
+[3.000407] Elevator 10 arrives at 2 
+[3.000392] Elevator 5 arrives at 2 
+[3.000389] Elevator 2 arrives at 2 
+[3.000415] Elevator 11 arrives at 2 
+[3.000421] Elevator 13 arrives at 2 
+[3.000429] Elevator 12 arrives at 2 
+[3.000423] Elevator 17 arrives at 2 
+[3.000426] Elevator 15 arrives at 2 
+[3.000433] Elevator 14 arrives at 2 
+[3.000444] Elevator 16 arrives at 2 
+[3.000483] Elevator 23 arrives at 2 
+[3.000496] Elevator 19 arrives at 2 
+[3.000501] Elevator 22 arrives at 2 
+[3.000497] Elevator 18 arrives at 2 
+[3.000505] Elevator 25 arrives at 2 
+[3.000507] Elevator 24 arrives at 2 
+[3.000498] Elevator 27 arrives at 2 
+[3.000511] Elevator 20 arrives at 2 
+[3.000513] Elevator 21 arrives at 2 
+[3.000552] Elevator 26 arrives at 2 
+[3.000558] Elevator 33 arrives at 2 
+[3.000562] Elevator 28 arrives at 2 
+[3.000567] Elevator 30 arrives at 2 
+[3.000568] Elevator 29 arrives at 2 
+[3.000581] Elevator 31 arrives at 2 
+[3.000577] Elevator 35 arrives at 2 
+[3.000586] Elevator 36 arrives at 2 
+[3.000596] Elevator 34 arrives at 2 
+[3.000586] Elevator 32 arrives at 2 
+[3.000610] Elevator 37 arrives at 2 
+[3.000616] Elevator 45 arrives at 2 
+[3.000620] Elevator 38 arrives at 2 
+[3.000627] Elevator 39 arrives at 2 
+[3.000630] Elevator 40 arrives at 2 
+[3.000637] Elevator 47 arrives at 2 
+[3.000640] Elevator 42 arrives at 2 
+[3.000644] Elevator 41 arrives at 2 
+[3.000633] Elevator 44 arrives at 2 
+[3.000631] Elevator 46 arrives at 2 
+[3.000650] Elevator 43 arrives at 2 
+[3.000654] Elevator 50 arrives at 2 
+[3.000644] Elevator 49 arrives at 2 
+[3.000669] Elevator 48 arrives at 2 
+[3.000674] Elevator 56 arrives at 2 
+[3.000678] Elevator 59 arrives at 2 
+[3.000683] Elevator 51 arrives at 2 
+[3.000689] Elevator 57 arrives at 2 
+[3.000693] Elevator 53 arrives at 2 
+[3.000686] Elevator 55 arrives at 2 
+[3.000698] Elevator 52 arrives at 2 
+[3.000703] Elevator 54 arrives at 2 
+[3.000703] Elevator 58 arrives at 2 
+[3.000719] Elevator 61 arrives at 2 
+[3.000736] Elevator 60 arrives at 2 
+[3.000744] Elevator 63 arrives at 2 
+[3.000747] Elevator 65 arrives at 2 
+[3.000744] Elevator 62 arrives at 2 
+[3.000765] Elevator 69 arrives at 2 
+[3.000769] Elevator 66 arrives at 2 
+[3.000771] Elevator 72 arrives at 2 
+[3.000774] Elevator 67 arrives at 2 
+[3.000777] Elevator 73 arrives at 2 
+[3.000780] Elevator 70 arrives at 2 
+[3.000781] Elevator 71 arrives at 2 
+[3.000767] Elevator 64 arrives at 2 
+[3.000774] Elevator 68 arrives at 2 
+[3.000815] Elevator 74 arrives at 2 
+[3.000820] Elevator 82 arrives at 2 
+[3.000827] Elevator 75 arrives at 2 
+[3.000833] Elevator 77 arrives at 2 
+[3.000840] Elevator 86 arrives at 2 
+[3.000834] Elevator 76 arrives at 2 
+[3.000859] Elevator 81 arrives at 2 
+[3.000834] Elevator 83 arrives at 2 
+[3.000836] Elevator 84 arrives at 2 
+[3.000839] Elevator 85 arrives at 2 
+[3.000849] Elevator 79 arrives at 2 
+[3.000896] Elevator 90 arrives at 2 
+[3.000902] Elevator 92 arrives at 2 
+[3.000903] Elevator 88 arrives at 2 
+[3.000908] Elevator 94 arrives at 2 
+[3.000910] Elevator 89 arrives at 2 
+[3.000914] Elevator 96 arrives at 2 
+[3.000918] Elevator 97 arrives at 2 
+[3.000856] Elevator 80 arrives at 2 
+[3.000858] Elevator 87 arrives at 2 
+[3.000852] Elevator 78 arrives at 2 
+[3.000926] Elevator 93 arrives at 2 
+[3.000918] Elevator 91 arrives at 2 
+[3.000915] Elevator 95 arrives at 2 
+[3.000943] Elevator 98 arrives at 2 
+[3.000948] Elevator 100 arrives at 2 
+[3.000954] Elevator 99 arrives at 2 
+[4.000279] Elevator 1 drops Person 1 
+[4.000432] Person 4 arrives on floor 3, waiting to go to floor 1 
+[4.000452] Elevator 7 starts moving from 2 to 3 
+[4.000460] Elevator 10 starts moving from 2 to 3 
+[4.000468] Elevator 9 starts moving from 2 to 3 
+[4.000475] Elevator 8 starts moving from 2 to 3 
+[4.000481] Elevator 5 starts moving from 2 to 3 
+[4.000490] Elevator 6 starts moving from 2 to 3 
+[4.000498] Elevator 2 starts moving from 2 to 3 
+[4.000504] Elevator 11 starts moving from 2 to 3 
+[4.000509] Elevator 13 starts moving from 2 to 3 
+[4.000515] Elevator 12 starts moving from 2 to 3 
+[4.000519] Elevator 15 starts moving from 2 to 3 
+[4.000526] Elevator 17 starts moving from 2 to 3 
+[4.000532] Elevator 14 starts moving from 2 to 3 
+[4.000540] Elevator 16 starts moving from 2 to 3 
+[4.000547] Elevator 23 starts moving from 2 to 3 
+[4.000551] Elevator 19 starts moving from 2 to 3 
+[4.000559] Elevator 22 starts moving from 2 to 3 
+[4.000564] Elevator 25 starts moving from 2 to 3 
+[4.000569] Elevator 18 starts moving from 2 to 3 
+[4.000574] Elevator 24 starts moving from 2 to 3 
+[4.000581] Elevator 27 starts moving from 2 to 3 
+[4.000586] Elevator 20 starts moving from 2 to 3 
+[4.000595] Elevator 21 starts moving from 2 to 3 
+[4.000601] Elevator 26 starts moving from 2 to 3 
+[4.000609] Elevator 33 starts moving from 2 to 3 
+[4.000614] Elevator 28 starts moving from 2 to 3 
+[4.000619] Elevator 30 starts moving from 2 to 3 
+[4.000629] Elevator 31 starts moving from 2 to 3 
+[4.000636] Elevator 29 starts moving from 2 to 3 
+[4.000643] Elevator 35 starts moving from 2 to 3 
+[4.000648] Elevator 36 starts moving from 2 to 3 
+[4.000654] Elevator 34 starts moving from 2 to 3 
+[4.000663] Elevator 32 starts moving from 2 to 3 
+[4.000670] Elevator 37 starts moving from 2 to 3 
+[4.000678] Elevator 45 starts moving from 2 to 3 
+[4.000684] Elevator 38 starts moving from 2 to 3 
+[4.000688] Elevator 39 starts moving from 2 to 3 
+[4.000692] Elevator 40 starts moving from 2 to 3 
+[4.000700] Elevator 42 starts moving from 2 to 3 
+[4.000705] Elevator 47 starts moving from 2 to 3 
+[4.000709] Elevator 41 starts moving from 2 to 3 
+[4.000717] Elevator 44 starts moving from 2 to 3 
+[4.000724] Elevator 43 starts moving from 2 to 3 
+[4.000730] Elevator 46 starts moving from 2 to 3 
+[4.000739] Elevator 50 starts moving from 2 to 3 
+[4.000744] Elevator 49 starts moving from 2 to 3 
+[4.000752] Elevator 48 starts moving from 2 to 3 
+[4.000756] Elevator 56 starts moving from 2 to 3 
+[4.000763] Elevator 59 starts moving from 2 to 3 
+[4.000769] Elevator 51 starts moving from 2 to 3 
+[4.000773] Elevator 57 starts moving from 2 to 3 
+[4.000777] Elevator 53 starts moving from 2 to 3 
+[4.000785] Elevator 55 starts moving from 2 to 3 
+[4.000792] Elevator 52 starts moving from 2 to 3 
+[4.000801] Elevator 54 starts moving from 2 to 3 
+[4.000806] Elevator 58 starts moving from 2 to 3 
+[4.000813] Elevator 61 starts moving from 2 to 3 
+[4.000821] Elevator 60 starts moving from 2 to 3 
+[4.000828] Elevator 65 starts moving from 2 to 3 
+[4.000834] Elevator 63 starts moving from 2 to 3 
+[4.000838] Elevator 62 starts moving from 2 to 3 
+[4.000843] Elevator 66 starts moving from 2 to 3 
+[4.000847] Elevator 69 starts moving from 2 to 3 
+[4.000853] Elevator 72 starts moving from 2 to 3 
+[4.000866] Elevator 73 starts moving from 2 to 3 
+[4.000870] Elevator 67 starts moving from 2 to 3 
+[4.000875] Elevator 70 starts moving from 2 to 3 
+[4.000883] Elevator 71 starts moving from 2 to 3 
+[4.000887] Elevator 64 starts moving from 2 to 3 
+[4.000896] Elevator 68 starts moving from 2 to 3 
+[4.000899] Elevator 74 starts moving from 2 to 3 
+[4.000905] Elevator 82 starts moving from 2 to 3 
+[4.000916] Elevator 75 starts moving from 2 to 3 
+[4.000920] Elevator 86 starts moving from 2 to 3 
+[4.000925] Elevator 77 starts moving from 2 to 3 
+[4.000933] Elevator 76 starts moving from 2 to 3 
+[4.000937] Elevator 81 starts moving from 2 to 3 
+[4.000946] Elevator 83 starts moving from 2 to 3 
+[4.000951] Elevator 84 starts moving from 2 to 3 
+[4.000959] Elevator 85 starts moving from 2 to 3 
+[4.000963] Elevator 90 starts moving from 2 to 3 
+[4.000969] Elevator 79 starts moving from 2 to 3 
+[4.000974] Elevator 92 starts moving from 2 to 3 
+[4.000977] Elevator 88 starts moving from 2 to 3 
+[4.000985] Elevator 94 starts moving from 2 to 3 
+[4.000992] Elevator 89 starts moving from 2 to 3 
+[4.000999] Elevator 96 starts moving from 2 to 3 
+[4.001004] Elevator 97 starts moving from 2 to 3 
+[4.001012] Elevator 80 starts moving from 2 to 3 
+[4.001017] Elevator 87 starts moving from 2 to 3 
+[4.001022] Elevator 78 starts moving from 2 to 3 
+[4.001026] Elevator 93 starts moving from 2 to 3 
+[4.001032] Elevator 91 starts moving from 2 to 3 
+[4.001038] Elevator 95 starts moving from 2 to 3 
+[4.001042] Elevator 98 starts moving from 2 to 3 
+[4.001053] Elevator 100 starts moving from 2 to 3 
+[4.001057] Elevator 99 starts moving from 2 to 3 
+[4.001062] Elevator 1 starts moving from 4 to 3 
+[5.000447] Elevator 4 drops Person 2 
+[5.000456] Elevator 4 starts moving from 4 to 3 
+[5.000466] Elevator 3 drops Person 3 
+[5.000477] Elevator 3 starts moving from 4 to 3 
+[5.000510] Person 5 arrives on floor 5, waiting to go to floor 1 
+[5.000522] Elevator 7 arrives at 3 
+[5.000525] Elevator 7 picks up Person 4 
+[5.000529] Elevator 5 arrives at 3 
+[5.000533] Elevator 5 starts moving from 3 to 5 
+[5.000525] Elevator 10 arrives at 3 
+[5.000537] Elevator 9 arrives at 3 
+[5.000539] Elevator 13 arrives at 3 
+[5.000542] Elevator 10 starts moving from 3 to 5 
+[5.000542] Elevator 9 starts moving from 3 to 5 
+[5.000535] Elevator 8 arrives at 3 
+[5.000551] Elevator 8 starts moving from 3 to 5 
+[5.000545] Elevator 13 starts moving from 3 to 5 
+[5.000557] Elevator 6 arrives at 3 
+[5.000563] Elevator 11 arrives at 3 
+[5.000566] Elevator 11 starts moving from 3 to 5 
+[5.000567] Elevator 6 starts moving from 3 to 5 
+[5.000560] Elevator 2 arrives at 3 
+[5.000577] Elevator 2 starts moving from 3 to 5 
+[5.000579] Elevator 17 arrives at 3 
+[5.000583] Elevator 15 arrives at 3 
+[5.000585] Elevator 17 starts moving from 3 to 5 
+[5.000579] Elevator 12 arrives at 3 
+[5.000585] Elevator 15 starts moving from 3 to 5 
+[5.000595] Elevator 12 starts moving from 3 to 5 
+[5.000597] Elevator 18 arrives at 3 
+[5.000589] Elevator 14 arrives at 3 
+[5.000608] Elevator 23 arrives at 3 
+[5.000602] Elevator 18 starts moving from 3 to 5 
+[5.000613] Elevator 23 starts moving from 3 to 5 
+[5.000602] Elevator 16 arrives at 3 
+[5.000617] Elevator 22 arrives at 3 
+[5.000609] Elevator 14 starts moving from 3 to 5 
+[5.000620] Elevator 24 arrives at 3 
+[5.000618] Elevator 16 starts moving from 3 to 5 
+[5.000623] Elevator 22 starts moving from 3 to 5 
+[5.000630] Elevator 20 arrives at 3 
+[5.000632] Elevator 20 starts moving from 3 to 5 
+[5.000593] Elevator 19 arrives at 3 
+[5.000627] Elevator 24 starts moving from 3 to 5 
+[5.000623] Elevator 25 arrives at 3 
+[5.000638] Elevator 19 starts moving from 3 to 5 
+[5.000640] Elevator 27 arrives at 3 
+[5.000651] Elevator 27 starts moving from 3 to 5 
+[5.000642] Elevator 25 starts moving from 3 to 5 
+[5.000657] Elevator 21 arrives at 3 
+[5.000660] Elevator 21 starts moving from 3 to 5 
+[5.000663] Elevator 26 arrives at 3 
+[5.000665] Elevator 26 starts moving from 3 to 5 
+[5.000670] Elevator 33 arrives at 3 
+[5.000672] Elevator 33 starts moving from 3 to 5 
+[5.000679] Elevator 34 arrives at 3 
+[5.000680] Elevator 31 arrives at 3 
+[5.000683] Elevator 31 starts moving from 3 to 5 
+[5.000672] Elevator 28 arrives at 3 
+[5.000683] Elevator 34 starts moving from 3 to 5 
+[5.000683] Elevator 35 arrives at 3 
+[5.000687] Elevator 28 starts moving from 3 to 5 
+[5.000690] Elevator 36 arrives at 3 
+[5.000695] Elevator 36 starts moving from 3 to 5 
+[5.000697] Elevator 29 arrives at 3 
+[5.000702] Elevator 30 arrives at 3 
+[5.000703] Elevator 29 starts moving from 3 to 5 
+[5.000704] Elevator 30 starts moving from 3 to 5 
+[5.000714] Elevator 45 arrives at 3 
+[5.000711] Elevator 37 arrives at 3 
+[5.000689] Elevator 35 starts moving from 3 to 5 
+[5.000720] Elevator 37 starts moving from 3 to 5 
+[5.000716] Elevator 45 starts moving from 3 to 5 
+[5.000723] Elevator 32 arrives at 3 
+[5.000726] Elevator 32 starts moving from 3 to 5 
+[5.000743] Elevator 38 arrives at 3 
+[5.000745] Elevator 38 starts moving from 3 to 5 
+[5.000746] Elevator 39 arrives at 3 
+[5.000748] Elevator 39 starts moving from 3 to 5 
+[5.000754] Elevator 44 arrives at 3 
+[5.000756] Elevator 44 starts moving from 3 to 5 
+[5.000761] Elevator 43 arrives at 3 
+[5.000763] Elevator 43 starts moving from 3 to 5 
+[5.000765] Elevator 47 arrives at 3 
+[5.000771] Elevator 41 arrives at 3 
+[5.000776] Elevator 41 starts moving from 3 to 5 
+[5.000772] Elevator 47 starts moving from 3 to 5 
+[5.000781] Elevator 40 arrives at 3 
+[5.000783] Elevator 40 starts moving from 3 to 5 
+[5.000768] Elevator 42 arrives at 3 
+[5.000789] Elevator 42 starts moving from 3 to 5 
+[5.000790] Elevator 46 arrives at 3 
+[5.000793] Elevator 46 starts moving from 3 to 5 
+[5.000797] Elevator 49 arrives at 3 
+[5.000799] Elevator 49 starts moving from 3 to 5 
+[5.000799] Elevator 50 arrives at 3 
+[5.000807] Elevator 48 arrives at 3 
+[5.000813] Elevator 48 starts moving from 3 to 5 
+[5.000808] Elevator 50 starts moving from 3 to 5 
+[5.000822] Elevator 59 arrives at 3 
+[5.000824] Elevator 59 starts moving from 3 to 5 
+[5.000815] Elevator 56 arrives at 3 
+[5.000830] Elevator 56 starts moving from 3 to 5 
+[5.000831] Elevator 55 arrives at 3 
+[5.000832] Elevator 57 arrives at 3 
+[5.000836] Elevator 53 arrives at 3 
+[5.000833] Elevator 55 starts moving from 3 to 5 
+[5.000840] Elevator 53 starts moving from 3 to 5 
+[5.000837] Elevator 57 starts moving from 3 to 5 
+[5.000845] Elevator 52 arrives at 3 
+[5.000847] Elevator 52 starts moving from 3 to 5 
+[5.000851] Elevator 58 arrives at 3 
+[5.000853] Elevator 58 starts moving from 3 to 5 
+[5.000857] Elevator 51 arrives at 3 
+[5.000859] Elevator 51 starts moving from 3 to 5 
+[5.000862] Elevator 54 arrives at 3 
+[5.000864] Elevator 54 starts moving from 3 to 5 
+[5.000873] Elevator 61 arrives at 3 
+[5.000875] Elevator 61 starts moving from 3 to 5 
+[5.000883] Elevator 60 arrives at 3 
+[5.000887] Elevator 60 starts moving from 3 to 5 
+[5.000889] Elevator 66 arrives at 3 
+[5.000893] Elevator 63 arrives at 3 
+[5.000896] Elevator 62 arrives at 3 
+[5.000897] Elevator 67 arrives at 3 
+[5.000900] Elevator 70 arrives at 3 
+[5.000896] Elevator 66 starts moving from 3 to 5 
+[5.000897] Elevator 63 starts moving from 3 to 5 
+[5.000906] Elevator 69 arrives at 3 
+[5.000901] Elevator 62 starts moving from 3 to 5 
+[5.000913] Elevator 69 starts moving from 3 to 5 
+[5.000906] Elevator 65 arrives at 3 
+[5.000917] Elevator 65 starts moving from 3 to 5 
+[5.000917] Elevator 72 arrives at 3 
+[5.000920] Elevator 72 starts moving from 3 to 5 
+[5.000903] Elevator 70 starts moving from 3 to 5 
+[5.000924] Elevator 73 arrives at 3 
+[5.000926] Elevator 73 starts moving from 3 to 5 
+[5.000903] Elevator 67 starts moving from 3 to 5 
+[5.000950] Elevator 64 arrives at 3 
+[5.000953] Elevator 86 arrives at 3 
+[5.000955] Elevator 86 starts moving from 3 to 5 
+[5.000956] Elevator 76 arrives at 3 
+[5.000950] Elevator 71 arrives at 3 
+[5.000962] Elevator 64 starts moving from 3 to 5 
+[5.000960] Elevator 81 arrives at 3 
+[5.000956] Elevator 77 arrives at 3 
+[5.000968] Elevator 71 starts moving from 3 to 5 
+[5.000967] Elevator 74 arrives at 3 
+[5.000964] Elevator 76 starts moving from 3 to 5 
+[5.000982] Elevator 82 arrives at 3 
+[5.000983] Elevator 83 arrives at 3 
+[5.000972] Elevator 77 starts moving from 3 to 5 
+[5.000989] Elevator 82 starts moving from 3 to 5 
+[5.000992] Elevator 83 starts moving from 3 to 5 
+[5.000979] Elevator 74 starts moving from 3 to 5 
+[5.000976] Elevator 75 arrives at 3 
+[5.001002] Elevator 84 arrives at 3 
+[5.000971] Elevator 81 starts moving from 3 to 5 
+[5.001006] Elevator 84 starts moving from 3 to 5 
+[5.000961] Elevator 68 arrives at 3 
+[5.001003] Elevator 75 starts moving from 3 to 5 
+[5.001010] Elevator 68 starts moving from 3 to 5 
+[5.001021] Elevator 85 arrives at 3 
+[5.001027] Elevator 85 starts moving from 3 to 5 
+[5.001021] Elevator 90 arrives at 3 
+[5.001031] Elevator 89 arrives at 3 
+[5.001033] Elevator 92 arrives at 3 
+[5.001032] Elevator 90 starts moving from 3 to 5 
+[5.001037] Elevator 94 arrives at 3 
+[5.001041] Elevator 94 starts moving from 3 to 5 
+[5.001038] Elevator 92 starts moving from 3 to 5 
+[5.001041] Elevator 96 arrives at 3 
+[5.001048] Elevator 80 arrives at 3 
+[5.001034] Elevator 89 starts moving from 3 to 5 
+[5.001051] Elevator 80 starts moving from 3 to 5 
+[5.001049] Elevator 96 starts moving from 3 to 5 
+[5.001056] Elevator 88 arrives at 3 
+[5.001058] Elevator 88 starts moving from 3 to 5 
+[5.001062] Elevator 97 arrives at 3 
+[5.001064] Elevator 97 starts moving from 3 to 5 
+[5.001067] Elevator 79 arrives at 3 
+[5.001068] Elevator 79 starts moving from 3 to 5 
+[5.001075] Elevator 87 arrives at 3 
+[5.001077] Elevator 87 starts moving from 3 to 5 
+[5.001080] Elevator 1 arrives at 3 
+[5.001081] Elevator 1 starts moving from 3 to 5 
+[5.001082] Elevator 91 arrives at 3 
+[5.001084] Elevator 91 starts moving from 3 to 5 
+[5.001084] Elevator 78 arrives at 3 
+[5.001085] Elevator 93 arrives at 3 
+[5.001088] Elevator 98 arrives at 3 
+[5.001089] Elevator 98 starts moving from 3 to 5 
+[5.001090] Elevator 93 starts moving from 3 to 5 
+[5.001086] Elevator 78 starts moving from 3 to 5 
+[5.001093] Elevator 99 arrives at 3 
+[5.001096] Elevator 99 starts moving from 3 to 5 
+[5.001100] Elevator 95 arrives at 3 
+[5.001102] Elevator 95 starts moving from 3 to 5 
+[5.001114] Elevator 100 arrives at 3 
+[5.001117] Elevator 100 starts moving from 3 to 5 
+[6.000527] Person 6 arrives on floor 5, waiting to go to floor 3 
+[6.000539] Elevator 3 arrives at 3 
+[6.000552] Elevator 3 starts moving from 3 to 5 
+[6.000544] Elevator 4 arrives at 3 
+[6.000557] Elevator 4 starts moving from 3 to 5 
+[7.000591] Elevator 7 drops Person 4 
+[7.000600] Elevator 5 arrives at 5 
+[7.000605] Elevator 13 arrives at 5 
+[7.000610] Elevator 8 arrives at 5 
+[7.000610] Elevator 9 arrives at 5 
+[7.000621] Elevator 2 arrives at 5 
+[7.000626] Elevator 11 arrives at 5 
+[7.000606] Elevator 5 picks up Person 5 
+[7.000618] Elevator 10 arrives at 5 
+[7.000638] Elevator 6 arrives at 5 
+[7.000618] Person 7 arrives on floor 5, waiting to go to floor 1 
+[7.000601] Elevator 7 starts moving from 1 to 5 
+[7.000640] Elevator 13 picks up Person 6 
+[7.000656] Elevator 23 arrives at 5 
+[7.000658] Elevator 12 arrives at 5 
+[7.000650] Elevator 17 arrives at 5 
+[7.000665] Elevator 15 arrives at 5 
+[7.000671] Elevator 18 arrives at 5 
+[7.000676] Elevator 14 arrives at 5 
+[7.000678] Elevator 20 arrives at 5 
+[7.000689] Elevator 16 arrives at 5 
+[7.000692] Elevator 22 arrives at 5 
+[7.000694] Elevator 16 picks up Person 7 
+[7.000689] Elevator 24 arrives at 5 
+[7.000709] Elevator 19 arrives at 5 
+[7.000710] Elevator 26 arrives at 5 
+[7.000712] Elevator 25 arrives at 5 
+[7.000709] Elevator 27 arrives at 5 
+[7.000720] Elevator 36 arrives at 5 
+[7.000720] Elevator 21 arrives at 5 
+[7.000726] Elevator 31 arrives at 5 
+[7.000718] Elevator 33 arrives at 5 
+[7.000746] Elevator 34 arrives at 5 
+[7.000749] Elevator 28 arrives at 5 
+[7.000752] Elevator 37 arrives at 5 
+[7.000755] Elevator 45 arrives at 5 
+[7.000767] Elevator 29 arrives at 5 
+[7.000774] Elevator 43 arrives at 5 
+[7.000776] Elevator 35 arrives at 5 
+[7.000779] Elevator 44 arrives at 5 
+[7.000784] Elevator 30 arrives at 5 
+[7.000785] Elevator 32 arrives at 5 
+[7.000805] Elevator 39 arrives at 5 
+[7.000806] Elevator 38 arrives at 5 
+[7.000837] Elevator 47 arrives at 5 
+[7.000847] Elevator 40 arrives at 5 
+[7.000852] Elevator 49 arrives at 5 
+[7.000855] Elevator 46 arrives at 5 
+[7.000857] Elevator 42 arrives at 5 
+[7.000861] Elevator 56 arrives at 5 
+[7.000863] Elevator 41 arrives at 5 
+[7.000866] Elevator 48 arrives at 5 
+[7.000881] Elevator 50 arrives at 5 
+[7.000884] Elevator 54 arrives at 5 
+[7.000883] Elevator 59 arrives at 5 
+[7.000899] Elevator 55 arrives at 5 
+[7.000904] Elevator 57 arrives at 5 
+[7.000909] Elevator 52 arrives at 5 
+[7.000914] Elevator 53 arrives at 5 
+[7.000919] Elevator 58 arrives at 5 
+[7.000923] Elevator 51 arrives at 5 
+[7.000934] Elevator 61 arrives at 5 
+[7.000947] Elevator 60 arrives at 5 
+[7.000963] Elevator 66 arrives at 5 
+[7.000966] Elevator 67 arrives at 5 
+[7.000969] Elevator 72 arrives at 5 
+[7.000970] Elevator 62 arrives at 5 
+[7.000970] Elevator 69 arrives at 5 
+[7.000977] Elevator 70 arrives at 5 
+[7.000978] Elevator 73 arrives at 5 
+[7.000981] Elevator 64 arrives at 5 
+[7.000969] Elevator 63 arrives at 5 
+[7.000986] Elevator 65 arrives at 5 
+[7.001014] Elevator 86 arrives at 5 
+[7.001019] Elevator 71 arrives at 5 
+[7.001019] Elevator 74 arrives at 5 
+[7.001044] Elevator 76 arrives at 5 
+[7.001052] Elevator 77 arrives at 5 
+[7.001056] Elevator 90 arrives at 5 
+[7.001054] Elevator 82 arrives at 5 
+[7.001057] Elevator 83 arrives at 5 
+[7.001057] Elevator 84 arrives at 5 
+[7.001064] Elevator 81 arrives at 5 
+[7.001079] Elevator 97 arrives at 5 
+[7.001072] Elevator 75 arrives at 5 
+[7.001084] Elevator 88 arrives at 5 
+[7.001087] Elevator 85 arrives at 5 
+[7.001091] Elevator 80 arrives at 5 
+[7.001088] Elevator 79 arrives at 5 
+[7.001101] Elevator 68 arrives at 5 
+[7.001103] Elevator 92 arrives at 5 
+[7.001097] Elevator 94 arrives at 5 
+[7.001108] Elevator 89 arrives at 5 
+[7.001112] Elevator 96 arrives at 5 
+[7.001134] Elevator 87 arrives at 5 
+[7.001139] Elevator 91 arrives at 5 
+[7.001140] Elevator 1 arrives at 5 
+[7.001145] Elevator 98 arrives at 5 
+[7.001148] Elevator 93 arrives at 5 
+[7.001150] Elevator 99 arrives at 5 
+[7.001151] Elevator 78 arrives at 5 
+[7.001163] Elevator 95 arrives at 5 
+[7.001176] Elevator 100 arrives at 5 
+[8.000615] Elevator 3 arrives at 5 
+[8.000617] Elevator 4 arrives at 5 
+[8.000756] Person 8 arrives on floor 1, waiting to go to floor 3 
+[8.000776] Elevator 23 starts moving from 5 to 1 
+[8.000783] Elevator 27 starts moving from 5 to 1 
+[8.000787] Elevator 36 starts moving from 5 to 1 
+[8.000797] Elevator 15 starts moving from 5 to 1 
+[8.000803] Elevator 22 starts moving from 5 to 1 
+[8.000807] Elevator 31 starts moving from 5 to 1 
+[8.000816] Elevator 9 starts moving from 5 to 1 
+[8.000824] Elevator 34 starts moving from 5 to 1 
+[8.000829] Elevator 45 starts moving from 5 to 1 
+[8.000837] Elevator 14 starts moving from 5 to 1 
+[8.000844] Elevator 11 starts moving from 5 to 1 
+[8.000852] Elevator 29 starts moving from 5 to 1 
+[8.000857] Elevator 43 starts moving from 5 to 1 
+[8.000862] Elevator 35 starts moving from 5 to 1 
+[8.000871] Elevator 24 starts moving from 5 to 1 
+[8.000877] Elevator 10 starts moving from 5 to 1 
+[8.000881] Elevator 44 starts moving from 5 to 1 
+[8.000888] Elevator 6 starts moving from 5 to 1 
+[8.000895] Elevator 32 starts moving from 5 to 1 
+[8.000901] Elevator 20 starts moving from 5 to 1 
+[8.000906] Elevator 26 starts moving from 5 to 1 
+[8.000911] Elevator 25 starts moving from 5 to 1 
+[8.000918] Elevator 12 starts moving from 5 to 1 
+[8.000923] Elevator 39 starts moving from 5 to 1 
+[8.000928] Elevator 38 starts moving from 5 to 1 
+[8.000934] Elevator 18 starts moving from 5 to 1 
+[8.000942] Elevator 21 starts moving from 5 to 1 
+[8.000949] Elevator 2 starts moving from 5 to 1 
+[8.000955] Elevator 37 starts moving from 5 to 1 
+[8.000960] Elevator 30 starts moving from 5 to 1 
+[8.000965] Elevator 19 starts moving from 5 to 1 
+[8.000970] Elevator 8 starts moving from 5 to 1 
+[8.000976] Elevator 47 starts moving from 5 to 1 
+[8.000980] Elevator 40 starts moving from 5 to 1 
+[8.000986] Elevator 49 starts moving from 5 to 1 
+[8.000990] Elevator 28 starts moving from 5 to 1 
+[8.000996] Elevator 46 starts moving from 5 to 1 
+[8.001002] Elevator 17 starts moving from 5 to 1 
+[8.001011] Elevator 42 starts moving from 5 to 1 
+[8.001017] Elevator 48 starts moving from 5 to 1 
+[8.001022] Elevator 56 starts moving from 5 to 1 
+[8.001025] Elevator 33 starts moving from 5 to 1 
+[8.001032] Elevator 41 starts moving from 5 to 1 
+[8.001040] Elevator 54 starts moving from 5 to 1 
+[8.001048] Elevator 50 starts moving from 5 to 1 
+[8.001054] Elevator 59 starts moving from 5 to 1 
+[8.001058] Elevator 55 starts moving from 5 to 1 
+[8.001063] Elevator 57 starts moving from 5 to 1 
+[8.001067] Elevator 52 starts moving from 5 to 1 
+[8.001073] Elevator 53 starts moving from 5 to 1 
+[8.001077] Elevator 58 starts moving from 5 to 1 
+[8.001083] Elevator 51 starts moving from 5 to 1 
+[8.001091] Elevator 61 starts moving from 5 to 1 
+[8.001100] Elevator 60 starts moving from 5 to 1 
+[8.001107] Elevator 66 starts moving from 5 to 1 
+[8.001115] Elevator 67 starts moving from 5 to 1 
+[8.001120] Elevator 72 starts moving from 5 to 1 
+[8.001126] Elevator 62 starts moving from 5 to 1 
+[8.001131] Elevator 69 starts moving from 5 to 1 
+[8.001135] Elevator 70 starts moving from 5 to 1 
+[8.001140] Elevator 73 starts moving from 5 to 1 
+[8.001147] Elevator 64 starts moving from 5 to 1 
+[8.001154] Elevator 63 starts moving from 5 to 1 
+[8.001158] Elevator 65 starts moving from 5 to 1 
+[8.001164] Elevator 86 starts moving from 5 to 1 
+[8.001171] Elevator 71 starts moving from 5 to 1 
+[8.001178] Elevator 74 starts moving from 5 to 1 
+[8.001187] Elevator 76 starts moving from 5 to 1 
+[8.001192] Elevator 77 starts moving from 5 to 1 
+[8.001196] Elevator 90 starts moving from 5 to 1 
+[8.001202] Elevator 82 starts moving from 5 to 1 
+[8.001211] Elevator 83 starts moving from 5 to 1 
+[8.001216] Elevator 84 starts moving from 5 to 1 
+[8.001220] Elevator 81 starts moving from 5 to 1 
+[8.001225] Elevator 97 starts moving from 5 to 1 
+[8.001231] Elevator 75 starts moving from 5 to 1 
+[8.001235] Elevator 88 starts moving from 5 to 1 
+[8.001241] Elevator 80 starts moving from 5 to 1 
+[8.001249] Elevator 85 starts moving from 5 to 1 
+[8.001254] Elevator 68 starts moving from 5 to 1 
+[8.001263] Elevator 79 starts moving from 5 to 1 
+[8.001267] Elevator 92 starts moving from 5 to 1 
+[8.001273] Elevator 94 starts moving from 5 to 1 
+[8.001279] Elevator 89 starts moving from 5 to 1 
+[8.001282] Elevator 96 starts moving from 5 to 1 
+[8.001288] Elevator 87 starts moving from 5 to 1 
+[8.001291] Elevator 91 starts moving from 5 to 1 
+[8.001296] Elevator 1 starts moving from 5 to 1 
+[8.001303] Elevator 98 starts moving from 5 to 1 
+[8.001308] Elevator 93 starts moving from 5 to 1 
+[8.001313] Elevator 99 starts moving from 5 to 1 
+[8.001318] Elevator 78 starts moving from 5 to 1 
+[8.001324] Elevator 95 starts moving from 5 to 1 
+[8.001334] Elevator 100 starts moving from 5 to 1 
+[8.001339] Elevator 3 starts moving from 5 to 1 
+[8.001342] Elevator 4 starts moving from 5 to 1 
+[9.000718] Elevator 13 drops Person 6 
+[9.000727] Elevator 13 starts moving from 3 to 1 
+[9.000836] Person 9 arrives on floor 5, waiting to go to floor 4 
+[10.000907] Person 10 arrives on floor 1, waiting to go to floor 4 
+[11.000704] Elevator 5 drops Person 5 
+[11.000715] Elevator 5 arrives at 1 
+[11.000717] Elevator 5 picks up Person 8 
+[11.000726] Elevator 7 arrives at 5 
+[11.000728] Elevator 7 picks up Person 9 
+[11.000763] Elevator 16 drops Person 7 
+[11.000774] Elevator 16 arrives at 1 
+[11.000776] Elevator 16 picks up Person 10 
+[11.000793] Elevator 13 arrives at 1 
+[11.000984] Person 11 arrives on floor 1, waiting to go to floor 2 
+[11.000995] Elevator 13 arrives at 1 
+[11.000998] Elevator 13 picks up Person 11 
+[12.000792] Elevator 7 drops Person 9 
+[12.000821] Elevator 23 arrives at 1 
+[12.000847] Elevator 36 arrives at 1 
+[12.000849] Elevator 27 arrives at 1 
+[12.000862] Elevator 15 arrives at 1 
+[12.000855] Elevator 31 arrives at 1 
+[12.000875] Elevator 14 arrives at 1 
+[12.000865] Elevator 22 arrives at 1 
+[12.000880] Elevator 9 arrives at 1 
+[12.000941] Elevator 32 arrives at 1 
+[12.000885] Elevator 29 arrives at 1 
+[12.000949] Elevator 6 arrives at 1 
+[12.000887] Elevator 34 arrives at 1 
+[12.000892] Elevator 11 arrives at 1 
+[12.000961] Elevator 20 arrives at 1 
+[12.000897] Elevator 43 arrives at 1 
+[12.000901] Elevator 44 arrives at 1 
+[12.000970] Elevator 37 arrives at 1 
+[12.000941] Elevator 10 arrives at 1 
+[12.000979] Elevator 18 arrives at 1 
+[12.000967] Elevator 26 arrives at 1 
+[12.000969] Elevator 25 arrives at 1 
+[12.000970] Elevator 39 arrives at 1 
+[12.000887] Elevator 45 arrives at 1 
+[12.001009] Elevator 2 arrives at 1 
+[12.000941] Elevator 24 arrives at 1 
+[12.000980] Elevator 12 arrives at 1 
+[12.001024] Elevator 19 arrives at 1 
+[12.001026] Elevator 13 drops Person 11 
+[12.000895] Elevator 35 arrives at 1 
+[12.001004] Elevator 21 arrives at 1 
+[12.001014] Elevator 47 arrives at 1 
+[12.001022] Elevator 30 arrives at 1 
+[12.000987] Elevator 38 arrives at 1 
+[12.001052] Elevator 48 arrives at 1 
+[12.001035] Elevator 46 arrives at 1 
+[12.001039] Elevator 40 arrives at 1 
+[12.001066] Elevator 50 arrives at 1 
+[12.001071] Elevator 42 arrives at 1 
+[12.001081] Elevator 56 arrives at 1 
+[12.001085] Elevator 33 arrives at 1 
+[12.001052] Elevator 49 arrives at 1 
+[12.001091] Elevator 57 arrives at 1 
+[12.001092] Elevator 41 arrives at 1 
+[12.001098] Elevator 53 arrives at 1 
+[12.001029] Elevator 8 arrives at 1 
+[12.001033] Elevator 28 arrives at 1 
+[12.001105] Elevator 52 arrives at 1 
+[12.001082] Elevator 54 arrives at 1 
+[12.001113] Elevator 59 arrives at 1 
+[12.001041] Person 12 arrives on floor 5, waiting to go to floor 2 
+[12.001102] Elevator 55 arrives at 1 
+[12.001127] Elevator 55 starts moving from 1 to 5 
+[12.001132] Elevator 7 starts moving from 4 to 5 
+[12.001134] Elevator 61 arrives at 1 
+[12.001137] Elevator 23 starts moving from 1 to 5 
+[12.001142] Elevator 36 starts moving from 1 to 5 
+[12.001147] Elevator 27 starts moving from 1 to 5 
+[12.001138] Elevator 61 starts moving from 1 to 5 
+[12.001152] Elevator 51 arrives at 1 
+[12.001062] Elevator 17 arrives at 1 
+[12.001110] Elevator 58 arrives at 1 
+[12.001161] Elevator 17 starts moving from 1 to 5 
+[12.001153] Elevator 15 starts moving from 1 to 5 
+[12.001165] Elevator 66 arrives at 1 
+[12.001171] Elevator 69 arrives at 1 
+[12.001173] Elevator 14 starts moving from 1 to 5 
+[12.001157] Elevator 51 starts moving from 1 to 5 
+[12.001164] Elevator 58 starts moving from 1 to 5 
+[12.001183] Elevator 67 arrives at 1 
+[12.001187] Elevator 22 starts moving from 1 to 5 
+[12.001180] Elevator 69 starts moving from 1 to 5 
+[12.001177] Elevator 66 starts moving from 1 to 5 
+[12.001192] Elevator 72 arrives at 1 
+[12.001197] Elevator 70 arrives at 1 
+[12.001197] Elevator 9 starts moving from 1 to 5 
+[12.001203] Elevator 29 starts moving from 1 to 5 
+[12.001203] Elevator 70 starts moving from 1 to 5 
+[12.001209] Elevator 6 starts moving from 1 to 5 
+[12.001160] Elevator 31 starts moving from 1 to 5 
+[12.001215] Elevator 34 starts moving from 1 to 5 
+[12.001218] Elevator 71 arrives at 1 
+[12.001200] Elevator 76 arrives at 1 
+[12.001227] Elevator 43 starts moving from 1 to 5 
+[12.001160] Elevator 60 arrives at 1 
+[12.001223] Elevator 20 starts moving from 1 to 5 
+[12.001219] Elevator 11 starts moving from 1 to 5 
+[12.001229] Elevator 86 arrives at 1 
+[12.001189] Elevator 67 starts moving from 1 to 5 
+[12.001221] Elevator 63 arrives at 1 
+[12.001221] Elevator 65 arrives at 1 
+[12.001247] Elevator 73 arrives at 1 
+[12.001250] Elevator 60 starts moving from 1 to 5 
+[12.001200] Elevator 72 starts moving from 1 to 5 
+[12.001196] Elevator 64 arrives at 1 
+[12.001262] Elevator 63 starts moving from 1 to 5 
+[12.001264] Elevator 65 starts moving from 1 to 5 
+[12.001267] Elevator 37 starts moving from 1 to 5 
+[12.001272] Elevator 83 arrives at 1 
+[12.001275] Elevator 64 starts moving from 1 to 5 
+[12.001283] Elevator 84 arrives at 1 
+[12.001283] Elevator 88 arrives at 1 
+[12.001293] Elevator 39 starts moving from 1 to 5 
+[12.001283] Elevator 90 arrives at 1 
+[12.001237] Elevator 71 starts moving from 1 to 5 
+[12.001275] Elevator 18 starts moving from 1 to 5 
+[12.001308] Elevator 84 starts moving from 1 to 5 
+[12.001310] Elevator 85 arrives at 1 
+[12.001275] Elevator 81 arrives at 1 
+[12.001317] Elevator 45 starts moving from 1 to 5 
+[12.001289] Elevator 10 starts moving from 1 to 5 
+[12.001314] Elevator 75 arrives at 1 
+[12.001326] Elevator 21 starts moving from 1 to 5 
+[12.001321] Elevator 82 arrives at 1 
+[12.001322] Elevator 85 starts moving from 1 to 5 
+[12.001283] Elevator 26 starts moving from 1 to 5 
+[12.001307] Elevator 24 starts moving from 1 to 5 
+[12.001348] Elevator 92 arrives at 1 
+[12.001350] Elevator 82 starts moving from 1 to 5 
+[12.001353] Elevator 79 arrives at 1 
+[12.001356] Elevator 38 starts moving from 1 to 5 
+[12.001360] Elevator 95 arrives at 1 
+[12.001364] Elevator 30 starts moving from 1 to 5 
+[12.001322] Elevator 13 starts moving from 2 to 5 
+[12.001356] Elevator 97 arrives at 1 
+[12.001372] Elevator 46 starts moving from 1 to 5 
+[12.001368] Elevator 19 starts moving from 1 to 5 
+[12.001380] Elevator 96 arrives at 1 
+[12.001382] Elevator 48 starts moving from 1 to 5 
+[12.001344] Elevator 75 starts moving from 1 to 5 
+[12.001389] Elevator 47 starts moving from 1 to 5 
+[12.001265] Elevator 74 arrives at 1 
+[12.001400] Elevator 87 arrives at 1 
+[12.001274] Elevator 77 arrives at 1 
+[12.001340] Elevator 89 arrives at 1 
+[12.001407] Elevator 42 starts moving from 1 to 5 
+[12.001409] Elevator 74 starts moving from 1 to 5 
+[12.001411] Elevator 87 starts moving from 1 to 5 
+[12.001348] Elevator 35 starts moving from 1 to 5 
+[12.001400] Elevator 50 starts moving from 1 to 5 
+[12.001297] Elevator 83 starts moving from 1 to 5 
+[12.001422] Elevator 99 arrives at 1 
+[12.001424] Elevator 99 starts moving from 1 to 5 
+[12.001426] Elevator 57 starts moving from 1 to 5 
+[12.001394] Elevator 78 arrives at 1 
+[12.001411] Elevator 68 arrives at 1 
+[12.001414] Elevator 77 starts moving from 1 to 5 
+[12.001303] Elevator 2 starts moving from 1 to 5 
+[12.001371] Elevator 79 starts moving from 1 to 5 
+[12.001444] Elevator 53 starts moving from 1 to 5 
+[12.001448] Elevator 41 starts moving from 1 to 5 
+[12.001394] Elevator 100 arrives at 1 
+[12.001240] Elevator 76 starts moving from 1 to 5 
+[12.001258] Elevator 44 starts moving from 1 to 5 
+[12.001462] Elevator 8 starts moving from 1 to 5 
+[12.001466] Elevator 52 starts moving from 1 to 5 
+[12.001310] Elevator 12 starts moving from 1 to 5 
+[12.001431] Elevator 56 starts moving from 1 to 5 
+[12.001458] Elevator 28 starts moving from 1 to 5 
+[12.001376] Elevator 95 starts moving from 1 to 5 
+[12.001446] Elevator 78 starts moving from 1 to 5 
+[12.001400] Elevator 80 arrives at 1 
+[12.001312] Elevator 90 starts moving from 1 to 5 
+[12.001471] Elevator 100 starts moving from 1 to 5 
+[12.001457] Elevator 49 starts moving from 1 to 5 
+[12.001499] Elevator 59 starts moving from 1 to 5 
+[12.001484] Elevator 98 arrives at 1 
+[12.001409] Elevator 91 arrives at 1 
+[12.001439] Elevator 33 starts moving from 1 to 5 
+[12.001304] Elevator 88 starts moving from 1 to 5 
+[12.001361] Elevator 94 arrives at 1 
+[12.001522] Elevator 98 starts moving from 1 to 5 
+[12.001429] Elevator 3 arrives at 1 
+[12.001527] Elevator 91 starts moving from 1 to 5 
+[12.001466] Elevator 1 arrives at 1 
+[12.001508] Elevator 80 starts moving from 1 to 5 
+[12.001538] Elevator 4 arrives at 1 
+[12.001329] Elevator 81 starts moving from 1 to 5 
+[12.001185] Elevator 62 arrives at 1 
+[12.001384] Elevator 93 arrives at 1 
+[12.001540] Elevator 3 starts moving from 1 to 5 
+[12.001385] Elevator 97 starts moving from 1 to 5 
+[12.001544] Elevator 1 starts moving from 1 to 5 
+[12.001367] Elevator 92 starts moving from 1 to 5 
+[12.001562] Elevator 93 starts moving from 1 to 5 
+[12.001533] Elevator 94 starts moving from 1 to 5 
+[12.001474] Elevator 54 starts moving from 1 to 5 
+[12.001256] Elevator 86 starts moving from 1 to 5 
+[12.001397] Elevator 96 starts moving from 1 to 5 
+[12.001560] Elevator 62 starts moving from 1 to 5 
+[12.001448] Elevator 68 starts moving from 1 to 5 
+[12.001266] Elevator 73 starts moving from 1 to 5 
+[12.001197] Elevator 32 starts moving from 1 to 5 
+[12.001299] Elevator 25 starts moving from 1 to 5 
+[12.001541] Elevator 4 starts moving from 1 to 5 
+[12.001403] Elevator 40 starts moving from 1 to 5 
+[12.001416] Elevator 89 starts moving from 1 to 5 
+[13.000785] Elevator 5 drops Person 8 
+[13.000797] Elevator 5 starts moving from 3 to 5 
+[13.001188] Person 13 arrives on floor 1, waiting to go to floor 4 
+[13.001193] Elevator 7 arrives at 5 
+[13.001195] Elevator 7 picks up Person 12 
+[14.000845] Elevator 16 drops Person 10 
+[14.000861] Elevator 16 starts moving from 4 to 1 
+[14.001256] Person 14 arrives on floor 4, waiting to go to floor 1 
+[15.000862] Elevator 5 arrives at 5 
+[15.000872] Elevator 5 starts moving from 5 to 1 
+[15.001335] Person 15 arrives on floor 2, waiting to go to floor 5 
+[15.001444] Elevator 13 arrives at 5 
+[15.001454] Elevator 13 starts moving from 5 to 1 
+[16.001188] Elevator 61 arrives at 5 
+[16.001207] Elevator 27 arrives at 5 
+[16.001208] Elevator 36 arrives at 5 
+[16.001224] Elevator 36 starts moving from 5 to 1 
+[16.001208] Elevator 61 starts moving from 5 to 1 
+[16.001230] Elevator 17 arrives at 5 
+[16.001237] Elevator 17 starts moving from 5 to 1 
+[16.001208] Elevator 23 arrives at 5 
+[16.001243] Elevator 14 arrives at 5 
+[16.001247] Elevator 58 arrives at 5 
+[16.001250] Elevator 69 arrives at 5 
+[16.001250] Elevator 14 starts moving from 5 to 1 
+[16.001219] Elevator 27 starts moving from 5 to 1 
+[16.001219] Elevator 66 arrives at 5 
+[16.001264] Elevator 9 arrives at 5 
+[16.001192] Elevator 55 arrives at 5 
+[16.001245] Elevator 6 arrives at 5 
+[16.001274] Elevator 70 arrives at 5 
+[16.001275] Elevator 55 starts moving from 5 to 1 
+[16.001212] Elevator 51 arrives at 5 
+[16.001244] Elevator 7 drops Person 12 
+[16.001255] Elevator 58 starts moving from 5 to 1 
+[16.001239] Elevator 22 arrives at 5 
+[16.001231] Elevator 15 arrives at 5 
+[16.001270] Elevator 9 starts moving from 5 to 1 
+[16.001301] Elevator 65 arrives at 5 
+[16.001304] Elevator 65 starts moving from 5 to 1 
+[16.001306] Elevator 20 arrives at 5 
+[16.001274] Elevator 29 arrives at 5 
+[16.001246] Elevator 23 starts moving from 5 to 1 
+[16.001277] Elevator 6 starts moving from 5 to 1 
+[16.001281] Elevator 70 starts moving from 5 to 1 
+[16.001324] Elevator 29 starts moving from 5 to 1 
+[16.001318] Elevator 43 arrives at 5 
+[16.001271] Elevator 66 starts moving from 5 to 1 
+[16.001334] Elevator 63 arrives at 5 
+[16.001290] Elevator 51 starts moving from 5 to 1 
+[16.001295] Elevator 67 arrives at 5 
+[16.001259] Elevator 69 starts moving from 5 to 1 
+[16.001304] Elevator 15 starts moving from 5 to 1 
+[16.001348] Elevator 63 starts moving from 5 to 1 
+[16.001353] Elevator 64 arrives at 5 
+[16.001357] Elevator 67 starts moving from 5 to 1 
+[16.001319] Elevator 20 starts moving from 5 to 1 
+[16.001322] Elevator 37 arrives at 5 
+[16.001372] Elevator 71 arrives at 5 
+[16.001376] Elevator 71 starts moving from 5 to 1 
+[16.001327] Elevator 60 arrives at 5 
+[16.001367] Elevator 84 arrives at 5 
+[16.001300] Elevator 72 arrives at 5 
+[16.001383] Elevator 37 starts moving from 5 to 1 
+[16.001391] Elevator 60 starts moving from 5 to 1 
+[16.001253] Elevator 31 arrives at 5 
+[16.001397] Elevator 72 starts moving from 5 to 1 
+[16.001341] Elevator 43 starts moving from 5 to 1 
+[16.001410] Elevator 19 arrives at 5 
+[16.001289] Elevator 34 arrives at 5 
+[16.001384] Elevator 45 arrives at 5 
+[16.001423] Elevator 19 starts moving from 5 to 1 
+[16.001395] Elevator 84 starts moving from 5 to 1 
+[16.001427] Elevator 34 starts moving from 5 to 1 
+[16.001307] Elevator 22 starts moving from 5 to 1 
+[16.001426] Elevator 26 arrives at 5 
+[16.001394] Elevator 10 arrives at 5 
+[16.001412] Elevator 31 starts moving from 5 to 1 
+[16.001370] Elevator 64 starts moving from 5 to 1 
+[16.001412] Person 16 arrives on floor 4, waiting to go to floor 5 
+[16.001441] Elevator 75 arrives at 5 
+[16.001453] Elevator 47 arrives at 5 
+[16.001431] Elevator 45 starts moving from 5 to 1 
+[16.001445] Elevator 46 arrives at 5 
+[16.001465] Elevator 47 starts moving from 5 to 1 
+[16.001434] Elevator 24 arrives at 5 
+[16.001310] Elevator 11 arrives at 5 
+[16.001472] Elevator 46 starts moving from 5 to 1 
+[16.001438] Elevator 21 arrives at 5 
+[16.001400] Elevator 82 arrives at 5 
+[16.001443] Elevator 48 arrives at 5 
+[16.001444] Elevator 10 starts moving from 5 to 1 
+[16.001492] Elevator 83 arrives at 5 
+[16.001490] Elevator 53 arrives at 5 
+[16.001499] Elevator 57 arrives at 5 
+[16.001503] Elevator 83 starts moving from 5 to 1 
+[16.001498] Elevator 50 arrives at 5 
+[16.001437] Elevator 38 arrives at 5 
+[16.001511] Elevator 2 arrives at 5 
+[16.001506] Elevator 53 starts moving from 5 to 1 
+[16.001440] Elevator 26 starts moving from 5 to 1 
+[16.001521] Elevator 50 starts moving from 5 to 1 
+[16.001367] Elevator 39 arrives at 5 
+[16.001527] Elevator 41 arrives at 5 
+[16.001453] Elevator 42 arrives at 5 
+[16.001522] Elevator 38 starts moving from 5 to 1 
+[16.001538] Elevator 8 arrives at 5 
+[16.001540] Elevator 8 starts moving from 5 to 1 
+[16.001527] Elevator 2 starts moving from 5 to 1 
+[16.001489] Elevator 21 starts moving from 5 to 1 
+[16.001548] Elevator 42 starts moving from 5 to 1 
+[16.001488] Elevator 11 starts moving from 5 to 1 
+[16.001489] Elevator 74 arrives at 5 
+[16.001488] Elevator 82 starts moving from 5 to 1 
+[16.001560] Elevator 78 arrives at 5 
+[16.001487] Elevator 35 arrives at 5 
+[16.001551] Elevator 52 arrives at 5 
+[16.001495] Elevator 48 starts moving from 5 to 1 
+[16.001572] Elevator 100 arrives at 5 
+[16.001574] Elevator 28 arrives at 5 
+[16.001577] Elevator 35 starts moving from 5 to 1 
+[16.001571] Elevator 95 arrives at 5 
+[16.001582] Elevator 49 arrives at 5 
+[16.001548] Elevator 12 arrives at 5 
+[16.001587] Elevator 100 starts moving from 5 to 1 
+[16.001591] Elevator 98 arrives at 5 
+[16.001485] Elevator 87 arrives at 5 
+[16.001499] Elevator 79 arrives at 5 
+[16.001492] Elevator 76 arrives at 5 
+[16.001447] Elevator 30 arrives at 5 
+[16.001570] Elevator 90 arrives at 5 
+[16.001544] Elevator 41 starts moving from 5 to 1 
+[16.001614] Elevator 87 starts moving from 5 to 1 
+[16.001600] Elevator 95 starts moving from 5 to 1 
+[16.001622] Elevator 93 arrives at 5 
+[16.001628] Elevator 33 arrives at 5 
+[16.001610] Elevator 94 arrives at 5 
+[16.001620] Elevator 79 starts moving from 5 to 1 
+[16.001604] Elevator 12 starts moving from 5 to 1 
+[16.001507] Elevator 77 arrives at 5 
+[16.001592] Elevator 28 starts moving from 5 to 1 
+[16.001650] Elevator 33 starts moving from 5 to 1 
+[16.001638] Elevator 97 arrives at 5 
+[16.001629] Elevator 30 starts moving from 5 to 1 
+[16.001563] Elevator 78 starts moving from 5 to 1 
+[16.001661] Elevator 77 starts moving from 5 to 1 
+[16.001664] Elevator 96 arrives at 5 
+[16.001653] Elevator 94 starts moving from 5 to 1 
+[16.001635] Elevator 90 starts moving from 5 to 1 
+[16.001676] Elevator 1 arrives at 5 
+[16.001679] Elevator 1 starts moving from 5 to 1 
+[16.001648] Elevator 91 arrives at 5 
+[16.001670] Elevator 81 arrives at 5 
+[16.001624] Elevator 76 starts moving from 5 to 1 
+[16.001673] Elevator 97 starts moving from 5 to 1 
+[16.001695] Elevator 89 arrives at 5 
+[16.001679] Elevator 80 arrives at 5 
+[16.001520] Elevator 56 arrives at 5 
+[16.001647] Elevator 93 starts moving from 5 to 1 
+[16.001708] Elevator 81 starts moving from 5 to 1 
+[16.001418] Elevator 18 arrives at 5 
+[16.001715] Elevator 89 starts moving from 5 to 1 
+[16.001700] Elevator 25 arrives at 5 
+[16.001563] Elevator 44 arrives at 5 
+[16.001722] Elevator 56 starts moving from 5 to 1 
+[16.001494] Elevator 99 arrives at 5 
+[16.001665] Elevator 3 arrives at 5 
+[16.001717] Elevator 80 starts moving from 5 to 1 
+[16.001684] Elevator 86 arrives at 5 
+[16.001738] Elevator 99 starts moving from 5 to 1 
+[16.001421] Elevator 85 arrives at 5 
+[16.001733] Elevator 54 arrives at 5 
+[16.001713] Elevator 68 arrives at 5 
+[16.001748] Elevator 86 starts moving from 5 to 1 
+[16.001752] Elevator 85 starts moving from 5 to 1 
+[16.001610] Elevator 59 arrives at 5 
+[16.001591] Elevator 88 arrives at 5 
+[16.001738] Elevator 3 starts moving from 5 to 1 
+[16.001735] Elevator 44 starts moving from 5 to 1 
+[16.001755] Elevator 54 starts moving from 5 to 1 
+[16.001731] Elevator 4 arrives at 5 
+[16.001671] Elevator 40 arrives at 5 
+[16.001585] Elevator 49 starts moving from 5 to 1 
+[16.001731] Elevator 18 starts moving from 5 to 1 
+[16.001571] Elevator 74 starts moving from 5 to 1 
+[16.001638] Elevator 92 arrives at 5 
+[16.001793] Elevator 32 arrives at 5 
+[16.001292] Elevator 7 starts moving from 2 to 1 
+[16.001798] Elevator 40 starts moving from 5 to 1 
+[16.001702] Elevator 91 starts moving from 5 to 1 
+[16.001761] Elevator 68 starts moving from 5 to 1 
+[16.001611] Elevator 98 starts moving from 5 to 1 
+[16.001578] Elevator 52 starts moving from 5 to 1 
+[16.001809] Elevator 32 starts moving from 5 to 1 
+[16.001804] Elevator 92 starts moving from 5 to 1 
+[16.001794] Elevator 4 starts moving from 5 to 1 
+[16.001696] Elevator 62 arrives at 5 
+[16.001734] Elevator 25 starts moving from 5 to 1 
+[16.001460] Elevator 75 starts moving from 5 to 1 
+[16.001686] Elevator 96 starts moving from 5 to 1 
+[16.001512] Elevator 57 starts moving from 5 to 1 
+[16.001484] Elevator 24 starts moving from 5 to 1 
+[16.001775] Elevator 59 starts moving from 5 to 1 
+[16.001542] Elevator 39 starts moving from 5 to 1 
+[16.001779] Elevator 88 starts moving from 5 to 1 
+[16.001673] Elevator 73 arrives at 5 
+[16.001871] Elevator 73 starts moving from 5 to 1 
+[16.001828] Elevator 62 starts moving from 5 to 1 
+[17.000932] Elevator 16 arrives at 1 
+[17.000948] Elevator 16 picks up Person 13 
+[17.001523] Person 17 arrives on floor 5, waiting to go to floor 3 
+[17.001869] Elevator 7 arrives at 1 
+[17.001876] Elevator 7 starts moving from 1 to 4 
+[18.001596] Person 18 arrives on floor 3, waiting to go to floor 5 
+[19.000940] Elevator 5 arrives at 1 
+[19.000951] Elevator 5 starts moving from 1 to 4 
+[19.001518] Elevator 13 arrives at 1 
+[19.001528] Elevator 13 starts moving from 1 to 4 
+[19.001667] Person 19 arrives on floor 2, waiting to go to floor 3 
+[20.001731] Person 20 arrives on floor 4, waiting to go to floor 2 
+Simulation result: 13 people have started,12 people have finished during 20 seconds 

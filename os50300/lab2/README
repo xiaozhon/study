@@ -1,0 +1,15 @@
+This file describes the configurations of two IPC methods: shared memory and unix socket.
+For both methods, totally 5000000 messages are sent. Each message is a random integer in 
+range [0, 511]. All methods are tested on Pegasus.
+
+1. IPC using shared memory
+	Source files are at folder shm/. Buffer size is 2048, implemented as ring buffer.
+	
+	The throughput is about 400,000 ~ 600,000 messages per second, depending on the 
+	avaliable resources on pegasus.
+	
+	
+2. IPC using unix socket
+	Source files are at folder unixSocket/. 
+	
+	The throughput is about 120,000 ~ 200,000 messages per second.
