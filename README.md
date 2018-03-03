@@ -7,7 +7,7 @@ Projects in C, Linux based systems.
 - Slab Memory Allocator: an implementation of malloc and free
 - System performance measurement
 
-# Introduction to Algorithms 50300
+# Introduction to Algorithms 58000
 Project in Java
 - Hoffman compression and decompression: input is 1 GB text file based on ASCII encoding. 
   Performance is measured using the correctness and compression/decompression time. 
